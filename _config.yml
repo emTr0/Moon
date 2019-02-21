@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://emTr0.github.io
+url:                https://emtr0.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -52,8 +52,8 @@ instagram:          emTr0
 #foursquare:        username
 steam:              emTr0
 #dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
+youtube:           emTr0
+youtube-channel:   UCANxmhbWr31966gLK5qVZdg
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
