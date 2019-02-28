@@ -5,7 +5,7 @@ description:        "Programming in Python and JavaScript. Streaming Rainbow Six
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/emTr0/logo.png'
-background:         'assets/img/emTr0/placeholder-big.jpg'
+background:         'assets/img/emTr0/placeholder-big.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://emtr0.tv
