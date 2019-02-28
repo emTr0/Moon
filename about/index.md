@@ -3,9 +3,10 @@ layout: page
 title: About emTr0
 tags: [about, emtr0, twitch streamer, youtuber, instagram, programmer, programming, coder, coding, san diego, california]
 date: 2019-02-28
-comments: false
-feature: https://raw.githubusercontent.com/emTr0/emTr0.github.io/master/assets/img/emTr0/me.png
+comments: false 
 ---
+<center><img src="https://raw.githubusercontent.com/emTr0/emTr0.github.io/master/assets/img/emTr0/me.png" alt="emTr0"><center>
+
 ## Intro
 
 I'm Mauricio aka "emTr0" almost everywhere online. I'm 31, from San Diego, California, and enjoy programming in Python and JavaScript (soon!). My online prescence is primarily focused on gaming and streaming on Twitch. Right now I play/stream a lot of Rainbow Six: Siege, Apex Legends and Star Citizen. I'm not a pro, partner or anything like that. I do it because I enjoy sharing the gaming experience, and to capture cool/epic moments for later.
