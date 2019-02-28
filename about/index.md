@@ -5,7 +5,7 @@ tags: [about, emtr0, twitch streamer, youtuber, instagram, programmer, programmi
 date: 2019-02-28
 comments: false 
 ---
-<center><img src="https://raw.githubusercontent.com/emTr0/emTr0.github.io/master/assets/img/emTr0/me.png" alt="emTr0"><center>
+<center><img src="https://raw.githubusercontent.com/emTr0/emTr0.github.io/master/assets/img/emTr0/me.png" alt="emTr0"></center>
 
 ## Intro
 
