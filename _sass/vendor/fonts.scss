@@ -1,3 +1,16 @@
+// Google Fonts
+// Orbitron
+@font-face{
+    font-family: 'Orbitron';
+    src: local("Orbitron"),
+         url("../fonts/GoogleFonts/Orbitron-Black.ttf") format("truetype"),
+         url("../fonts/GoogleFonts/Orbitron-Bold.ttf") format("truetype"),
+         url("../fonts/GoogleFonts/Orbitron-Medium.ttf") format("truetype"),
+         url("../fonts/GoogleFonts/Orbitron-Regular.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
 // Fira Sans
 @font-face{
     font-family: 'Fira Sans';
